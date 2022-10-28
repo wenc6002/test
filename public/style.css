@@ -1,0 +1,41 @@
+h1 {
+  font-size: 200%;
+  color: dimgray;
+  font-family: verdana;
+}
+
+p1 {
+  font-size: 100%;
+  color: slategrey;
+  font-family: verdana;
+}
+
+h2 {
+  font-size: 100%;
+  color: dimgray;
+  font-family: verdana;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
